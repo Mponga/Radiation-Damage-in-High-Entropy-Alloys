@@ -1,0 +1,18 @@
+# SYSTEM: CrFeCoNi
+# Method: Classical MD
+
+# NOTES:
+# M_frac: number of frenkel pairs of element M divided by the total number of frenkel pairs at steady state 
+# M: Ni or Fe or Cr or Co
+
+Ni_frac   Fe_frac    Cr_frac   Co_frac
+0.171717  0.121212   0.515152  0.191919
+0.330097  0.0679612  0.456311  0.145631
+0.168539  0.157303   0.449438  0.224719
+0.268966  0.172414   0.365517  0.193103
+0.253906  0.207031   0.300781  0.238281
+0.311475  0.147541   0.418033  0.122951
+0.294118  0.12605    0.386555  0.193277
+0.222222  0.037037   0.654321  0.0864198
+0.205128  0.188034   0.401709  0.205128
+0.181818  0.173554   0.471074  0.173554

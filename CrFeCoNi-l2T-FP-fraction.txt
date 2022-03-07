@@ -1,0 +1,16 @@
+# SYSTEM: CrFeCoNi
+# Method: l2t-MD
+
+# NOTES:
+# M_frac: number of frenkel pairs of element M divided by the total number of frenkel pairs at steady state 
+# M: Ni or Fe or Cr or Co
+
+Ni_frac   Fe_frac    Cr_frac   Co_frac
+0.177083  0.15625    0.520833  0.145833
+0.219048  0.0571429  0.638095  0.0857143
+0.2       0.0625     0.5625    0.175
+0.228814  0.152542   0.398305  0.220339
+0.269231  0.134615   0.471154  0.125
+0.195122  0.158537   0.560976  0.0853659
+0.247525  0.148515   0.544554  0.0594059
+0.307692  0.115385   0.512821  0.0641026
